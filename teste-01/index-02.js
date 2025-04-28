@@ -1,1 +1,1 @@
-const idade = "22";
+const lang = "pt-BR";
