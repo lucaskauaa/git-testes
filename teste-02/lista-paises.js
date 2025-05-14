@@ -1,0 +1,1 @@
+const paises = ["Brasil", "Canadá", "Rússia", "China", "Austrália", "Angola"];
