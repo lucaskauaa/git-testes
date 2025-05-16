@@ -12,12 +12,13 @@
 * git push origin (name)
 * git push origin --delete (name)
 * git pull
-* git mv (name)
+* git mv (name) (new-name)
 * git rm (name)
 
 ## Branchs e tags:
 
-* git branch 
+* git branch
+* git branch -M main
 * git branch -d (name)
 * git checkout (name)
 * git checkout -b (name)
@@ -39,7 +40,8 @@
 * git diff
 * git diff (name or hash)
 * git reset --hard
-* git reset --hard (name or hash)
+* git reset --hard origin/name
+* git reset --hard (hash)
 
 ## Remote:
 
