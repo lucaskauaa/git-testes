@@ -8,6 +8,7 @@
 * git add .
 * git commit -a -m "message"
 * git push
+* git push -u origin (name)
 * git push origin (name)
 * git push origin --delete (name)
 * git pull
@@ -34,11 +35,11 @@
 * git shortlog
 * git reflog
 * git show
-* git show (name)
+* git show (name or hash)
 * git diff
-* git diff (name)
+* git diff (name or hash)
 * git reset --hard
-* git reset --hard (name)
+* git reset --hard (name or hash)
 
 ## Remote:
 
