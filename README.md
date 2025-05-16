@@ -8,24 +8,24 @@
 * git add .
 * git commit -a -m "message"
 * git push
-* git push origin <name>
-* git push origin --delete <name>
+* git push origin (name)
+* git push origin --delete (name)
 * git pull
-* git mv <name>
-* git rm <name>
+* git mv (name)
+* git rm (name)
 
 ## Branchs e tags:
 
 * git branch 
-* git branch -d <name>
-* git checkout <name>
-* git checkout -b <name>
+* git branch -d (name)
+* git checkout (name)
+* git checkout -b (name)
 * git tag 
-* git tag -a <name> -m "message"
-* git tag -d <name>
-* git merge <name>
-* git rebase <name>
-* git rebase -i <name>
+* git tag -a (name) -m "message"
+* git tag -d (name)
+* git merge (name)
+* git rebase (name)
+* git rebase -i (name)
 * git fetch
 
 ## Monitoramento e reset:
@@ -34,11 +34,11 @@
 * git shortlog
 * git reflog
 * git show
-* git show <name>
+* git show (name)
 * git diff
-* git diff <name>
+* git diff (name)
 * git reset --hard
-* git reset --hard <name>
+* git reset --hard (name)
 
 ## Remote:
 
