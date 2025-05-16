@@ -1,4 +1,4 @@
-# Principais comando do git:
+# Principais comandos do git:
 
 ## Fluxo principal:
 
@@ -21,7 +21,7 @@
 * git checkout
 * git checkout -b
 * git tag 
-* git tag -a ""
+* git tag -a "" -m ""
 * git tag -d 
 * git merge
 * git rebase
