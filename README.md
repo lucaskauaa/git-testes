@@ -39,6 +39,7 @@
 * git show (name or hash)
 * git diff
 * git diff (name or hash)
+* git restore (name)
 * git reset --hard
 * git reset --hard origin/name
 * git reset --hard (hash)
